@@ -9,7 +9,7 @@
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-123456?style=flat-square&logo=C%2B%2B&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-123456?style=flat-square&logo=C-sharp&logoColor=black)
-![OpenGL](https://img.shields.io/badge/-OpenGL-123456?style=flat-square&logo=OpenGL&logoColor=black)
+![OpenGL](https://img.shields.io/badge/-OpenGL-1F305F?style=flat-square&logo=OpenGL&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-1F305F?style=flat-square&logo=Unity&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-007396?style=flat&logo=JavaScript&logoColor=ffffff)
