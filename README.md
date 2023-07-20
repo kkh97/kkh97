@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+# 김광현 깃허브
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=kkh97)](https://github.com/kkh97)
 
@@ -18,7 +18,7 @@
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) -->
 <!-- ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta) -->
 <!-- ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white) -->
-
+<!--
 # Hi there 👋
 ## Hi there 👋
 ### Hi there 👋
@@ -37,7 +37,7 @@ System.out.println("Hello World");
 :joy:
 :rage:
 
-<!--
+
 **kkh97/kkh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -51,3 +51,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+# Lost Grade:
+
+    유니티를 이용해 개발한 3D RPG
+---
+# Festival Link:
+
+    전국 축제를 소개하는 사이트
+---
